@@ -15,8 +15,7 @@ import {
 import { createClient } from "contentful-management";
 import UsageChart from "../components/Usage";
 import ContentTypeAudit from "../components/ContentTypeAudit";
-// Philips PAT
-// CFPAT-cJ7t6ouImMf3mBeiWfmjSw0E908-DyLzbgsHXyTVW58
+
 // TAM hub VV
 // CFPAT-plNzS5XIS_Oa9z4SnIP0X2pZRhIXvwfD2gC2KiGaNoE
 // org id: 1VvvAHJva5Hw3eCh3XHair
